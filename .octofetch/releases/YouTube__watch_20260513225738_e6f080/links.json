@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5544",
+  "folder": "YouTube__watch_20260513225738_e6f080",
+  "base_name": "1405_rljn8UrPW2o_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/ARB500/Cloud-Downloads-2/releases/tag/co-releases-v1-5544",
+  "files": [
+    {
+      "name": "1405_rljn8UrPW2o_720p.mp4",
+      "url": "https://github.com/ARB500/Cloud-Downloads-2/releases/download/co-releases-v1-5544/1405_rljn8UrPW2o_720p.mp4",
+      "api_url": "https://api.github.com/repos/ARB500/Cloud-Downloads-2/releases/assets/419680934",
+      "id": 419680934,
+      "size": 70707236,
+      "download_count": 0
+    }
+  ]
+}
