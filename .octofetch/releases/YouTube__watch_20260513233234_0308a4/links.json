@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4404",
+  "folder": "YouTube__watch_20260513233234_0308a4",
+  "base_name": "R_sum_complet_CLASSROOM_OF_THE_ELITE_Saison_1_2_3_Avant_la_Saison_4_(2_iVXVkNtPbxY_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/ARB500/Cloud-Downloads-2/releases/tag/co-releases-v1-4404",
+  "files": [
+    {
+      "name": "R_sum_complet_CLASSROOM_OF_THE_ELITE_Saison_1_2_3_Avant_la_Saison_4_.2_iVXVkNtPbxY_720p.mp4",
+      "url": "https://github.com/ARB500/Cloud-Downloads-2/releases/download/co-releases-v1-4404/R_sum_complet_CLASSROOM_OF_THE_ELITE_Saison_1_2_3_Avant_la_Saison_4_.2_iVXVkNtPbxY_720p.mp4",
+      "api_url": "https://api.github.com/repos/ARB500/Cloud-Downloads-2/releases/assets/419702548",
+      "id": 419702548,
+      "size": 112525422,
+      "download_count": 0
+    }
+  ]
+}
