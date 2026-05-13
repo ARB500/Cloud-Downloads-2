@@ -1,0 +1,27 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4813",
+  "folder": "YouTube__watch_20260513232511_560e8b",
+  "base_name": "MHRV_MsJGTH4Drnc_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/ARB500/Cloud-Downloads-2/releases/tag/co-releases-v1-4813",
+  "files": [
+    {
+      "name": "1405_rljn8UrPW2o_360p.mp4",
+      "url": "https://github.com/ARB500/Cloud-Downloads-2/releases/download/co-releases-v1-4813/1405_rljn8UrPW2o_360p.mp4",
+      "api_url": "https://api.github.com/repos/ARB500/Cloud-Downloads-2/releases/assets/419656461",
+      "id": 419656461,
+      "size": 30297086,
+      "download_count": 1
+    },
+    {
+      "name": "MHRV_MsJGTH4Drnc_720p.mp4",
+      "url": "https://github.com/ARB500/Cloud-Downloads-2/releases/download/co-releases-v1-4813/MHRV_MsJGTH4Drnc_720p.mp4",
+      "api_url": "https://api.github.com/repos/ARB500/Cloud-Downloads-2/releases/assets/419697833",
+      "id": 419697833,
+      "size": 49970835,
+      "download_count": 0
+    }
+  ]
+}
